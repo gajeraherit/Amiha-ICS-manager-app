@@ -1,0 +1,6 @@
+{
+  "name": "AMIHA ICS manager",
+  "description": "An offline-first Android application for ICS Field Officers and Farm Inspectors to register farmers, manage plots, and record inspections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
